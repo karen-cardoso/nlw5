@@ -1,0 +1,10 @@
+Dicas:
+
++
+Responsividade;
+PWA next-pwa;
+Dark-Theme;
+
+++
+App Desktop;
+
